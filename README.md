@@ -1,1 +1,1 @@
-My first readme, now a litlle tweaked.
+My first readme, now a little tweaked.
